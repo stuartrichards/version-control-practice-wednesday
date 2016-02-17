@@ -1,4 +1,4 @@
-# version-control-practice-wednesday
+# Version control practice Wednesday
 
 A temporary repository for practice during the workshop today.
 
